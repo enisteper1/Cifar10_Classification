@@ -3,6 +3,8 @@ The purpose of this projects is to show image classification with machine learni
 Softmax algorithm is used for Multinomial Logistic Regression to classify images.
 Since the final accuracy was not satisfying enough adjusting learning rate and fitting more may increase it.
 
+Cifar10 is used as dataset. It can be downloaded from https://www.cs.toronto.edu/~kriz/cifar.html
+
 ### Train
     $python train.py
       Loading weights...
